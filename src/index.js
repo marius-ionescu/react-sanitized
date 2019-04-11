@@ -39,4 +39,6 @@ Sanitized.propTypes = {
   options: PropTypes.objectOf(PropTypes.any)
 };
 
-export default React.memo(Sanitized);
+const withMemo = React.memo? React.memo(Sanitized) : Sanitized;
+
+export default withMemo;

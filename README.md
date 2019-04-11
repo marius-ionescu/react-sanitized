@@ -1,4 +1,6 @@
 # react-sanitized
+[![npm version](https://badge.fury.io/js/react-sanitized.svg)](https://badge.fury.io/js/react-sanitized)
+[![npm downloads](https://img.shields.io/npm/dm/react-sanitized.svg)](https://npmjs.com/package/react-sanitized)
 
 A React component that will sanitize user HTML code, using the popular [`sanitize-html`](https://npmjs.com/package/sanitize-html) package.
 

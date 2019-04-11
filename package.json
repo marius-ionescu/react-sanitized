@@ -1,6 +1,6 @@
 {
   "name": "react-sanitized",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A React component that will sanitize user-inputted HTML code, using the popular sanitize-html package",
   "main": "lib/index.js",
   "module": "lib/index.js",
